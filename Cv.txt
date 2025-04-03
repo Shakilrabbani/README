@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Your Name</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            border: 2px solid black;
+            max-width: 600px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        h2 {
+            color: green;
+            font-size: 18px;
+        }
+        .section-title {
+            color: blue;
+            font-weight: bold;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Name</h1>
+    <h2>Junior Frontend Developer</h2>
+    <p>
+        123 Your Street<br>
+        Your City, ST 12345<br>
+        (123) 456-7890<br>
+        no_reply@example.com
+    </p>
+    
+    <h2>Skills</h2>
+    <p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
+    
+    <h2>Education</h2>
+    <p class="section-title">School Name, Location - Degree</p>
+    <p>Month 20xx to Month 20xx</p>
+    <p>List of exciting things you did at university</p>
+    
+    <h2>Experience</h2>
+    <p class="section-title">Company Name, Location - Job Title</p>
+    <p>Month 20xx to Month 20xx</p>
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+    <p>Skills: List of skills used or gained at this company</p>
+    
+    <p class="section-title">Company Name, Location - Job Title</p>
+    <p>Month 20xx to Month 20xx</p>
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+    <p>Skills: List of skills used or gained at this company</p>
+    
+    <h2>Across the Internet</h2>
+    <p>Add your LinkedIn, GitHub profile links</p>
+</body>
+</html>
